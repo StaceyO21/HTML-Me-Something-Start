@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+body {
+    background-color: black;
+    margin: 8px;
+    display: block;
+    padding: 8px;
+}
+
+div {
+    color: rgb(123, 123, 252)
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 75px;
+    border-style: groove;
+    border-width: 2cm;
+    border-color: rgb(134, 5, 93);
+    
+}
+
+.headers-centered {
+    text-align: center;
+    color: rgb(1, 251, 1) ;
+}
+
+#imageformat {
+    border-style: inset;
+    border-color: blueviolet;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#.funParagraph {
+    color:chartreuse;
+}
+
+footer {
+    color:rgb(237, 82, 113);
+   text-align:end;
+
+}
